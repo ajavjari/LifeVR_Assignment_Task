@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: 9a7ee91ffacbb3a42b9a29c16d11b977
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Archmodels70_001_01
+    100002: Archmodels70_001_02
+    100004: Archmodels70_001_03
+    100006: Archmodels70_001_04
+    100008: Archmodels70_001_05
+    100010: Archmodels70_001_07
+    100012: Archmodels70_001_08
+    100014: Archmodels70_001_09
+    100016: Archmodels70_001_10
+    100018: Archmodels70_001_11
+    100020: Archmodels70_001_12
+    100022: Archmodels70_001_13
+    100024: Archmodels70_001_14
+    100026: Archmodels70_001_15
+    100028: Archmodels70_001_16
+    100030: //RootNode
+    100032: Camera
+    100034: ChamferBox001
+    100036: Cube
+    100038: Lamp
+    100040: Object001
+    100042: "\xA1\xA1\xD7\xFD\xD7\xFB"
+    100044: "\xD7\xFE\xD7\xFC"
+    400000: Archmodels70_001_01
+    400002: Archmodels70_001_02
+    400004: Archmodels70_001_03
+    400006: Archmodels70_001_04
+    400008: Archmodels70_001_05
+    400010: Archmodels70_001_07
+    400012: Archmodels70_001_08
+    400014: Archmodels70_001_09
+    400016: Archmodels70_001_10
+    400018: Archmodels70_001_11
+    400020: Archmodels70_001_12
+    400022: Archmodels70_001_13
+    400024: Archmodels70_001_14
+    400026: Archmodels70_001_15
+    400028: Archmodels70_001_16
+    400030: //RootNode
+    400032: Camera
+    400034: ChamferBox001
+    400036: Cube
+    400038: Lamp
+    400040: Object001
+    400042: "\xA1\xA1\xD7\xFD\xD7\xFB"
+    400044: "\xD7\xFE\xD7\xFC"
+    2000000: Camera
+    2100000: 01 - Default
+    2100002: Archmodels70_001_08
+    2100004: Archmodels70_001_15
+    2100006: Archmodels70_001_14
+    2100008: Archmodels70_001_13
+    2100010: Archmodels70_001_12
+    2100012: Archmodels70_001_11
+    2100014: Archmodels70_001_10
+    2100016: Archmodels70_001_09
+    2100018: Archmodels70_001_07
+    2100020: Archmodels70_001_06
+    2100022: Archmodels70_001_04
+    2100024: Archmodels70_001_03
+    2100026: Archmodels70_001_02
+    2100028: Archmodels70_001_01
+    2100030: Material
+    2300000: Archmodels70_001_01
+    2300002: Archmodels70_001_02
+    2300004: Archmodels70_001_03
+    2300006: Archmodels70_001_04
+    2300008: Archmodels70_001_07
+    2300010: Archmodels70_001_08
+    2300012: Archmodels70_001_09
+    2300014: Archmodels70_001_10
+    2300016: Archmodels70_001_11
+    2300018: Archmodels70_001_12
+    2300020: Archmodels70_001_13
+    2300022: Archmodels70_001_14
+    2300024: Archmodels70_001_15
+    2300026: Archmodels70_001_16
+    2300028: ChamferBox001
+    2300030: Cube
+    2300032: Object001
+    3300000: Archmodels70_001_01
+    3300002: Archmodels70_001_02
+    3300004: Archmodels70_001_03
+    3300006: Archmodels70_001_04
+    3300008: Archmodels70_001_07
+    3300010: Archmodels70_001_08
+    3300012: Archmodels70_001_09
+    3300014: Archmodels70_001_10
+    3300016: Archmodels70_001_11
+    3300018: Archmodels70_001_12
+    3300020: Archmodels70_001_13
+    3300022: Archmodels70_001_14
+    3300024: Archmodels70_001_15
+    3300026: Archmodels70_001_16
+    3300028: ChamferBox001
+    3300030: Cube
+    3300032: Object001
+    4300000: ChamferBox001
+    4300002: Object001
+    4300004: Archmodels70_001_16
+    4300006: Archmodels70_001_15
+    4300008: Archmodels70_001_14
+    4300010: Archmodels70_001_13
+    4300012: Archmodels70_001_12
+    4300014: Archmodels70_001_11
+    4300016: Archmodels70_001_10
+    4300018: Archmodels70_001_09
+    4300020: Archmodels70_001_08
+    4300022: Archmodels70_001_07
+    4300024: Archmodels70_001_04
+    4300026: Archmodels70_001_03
+    4300028: Archmodels70_001_02
+    4300030: Archmodels70_001_01
+    4300032: Cube
+    7400000: Archmodels70_001_16|Archmodels70_001_01|Take 001|BaseLayer
+    7400002: Archmodels70_001_16|Archmodels70_001_02|Take 001|BaseLayer
+    7400004: Archmodels70_001_16|Archmodels70_001_03|Take 001|BaseLayer
+    7400006: Archmodels70_001_16|Archmodels70_001_04|Take 001|BaseLayer
+    7400008: Archmodels70_001_16|Archmodels70_001_05|Take 001|BaseLayer
+    7400010: Archmodels70_001_16|Archmodels70_001_06|Take 001|BaseLayer
+    7400012: Archmodels70_001_16|Archmodels70_001_07|Take 001|BaseLayer
+    7400014: Archmodels70_001_16|Archmodels70_001_08|Take 001|BaseLayer
+    7400016: Archmodels70_001_16|Archmodels70_001_09|Take 001|BaseLayer
+    7400018: Archmodels70_001_16|Archmodels70_001_10|Take 001|BaseLayer
+    7400020: Archmodels70_001_16|Archmodels70_001_11|Take 001|BaseLayer
+    7400022: Archmodels70_001_16|Archmodels70_001_12|Take 001|BaseLayer
+    7400024: Archmodels70_001_16|Archmodels70_001_13|Take 001|BaseLayer
+    7400026: Archmodels70_001_16|Archmodels70_001_14|Take 001|BaseLayer
+    7400028: Archmodels70_001_16|Archmodels70_001_15|Take 001|BaseLayer
+    7400030: Archmodels70_001_16|Archmodels70_001_16|Take 001|BaseLayer
+    7400032: "Archmodels70_001_16|\xA1\xA1\xD7\xFD\xD7\xFB|Take 001|BaseLayer"
+    7400034: "Archmodels70_001_16|\xD7\xFE\xD7\xFC|Take 001|BaseLayer"
+    7400036: Archmodels70_001_15|Archmodels70_001_01|Take 001|BaseLayer
+    7400038: Archmodels70_001_15|Archmodels70_001_02|Take 001|BaseLayer
+    7400040: Archmodels70_001_15|Archmodels70_001_03|Take 001|BaseLayer
+    7400042: Archmodels70_001_15|Archmodels70_001_04|Take 001|BaseLayer
+    7400044: Archmodels70_001_15|Archmodels70_001_05|Take 001|BaseLayer
+    7400046: Archmodels70_001_15|Archmodels70_001_06|Take 001|BaseLayer
+    7400048: Archmodels70_001_15|Archmodels70_001_07|Take 001|BaseLayer
+    7400050: Archmodels70_001_15|Archmodels70_001_08|Take 001|BaseLayer
+    7400052: Archmodels70_001_15|Archmodels70_001_09|Take 001|BaseLayer
+    7400054: Archmodels70_001_15|Archmodels70_001_10|Take 001|BaseLayer
+    7400056: Archmodels70_001_15|Archmodels70_001_11|Take 001|BaseLayer
+    7400058: Archmodels70_001_15|Archmodels70_001_12|Take 001|BaseLayer
+    7400060: Archmodels70_001_15|Archmodels70_001_13|Take 001|BaseLayer
+    7400062: Archmodels70_001_15|Archmodels70_001_14|Take 001|BaseLayer
+    7400064: Archmodels70_001_15|Archmodels70_001_15|Take 001|BaseLayer
+    7400066: Archmodels70_001_15|Archmodels70_001_16|Take 001|BaseLayer
+    7400068: "Archmodels70_001_15|\xA1\xA1\xD7\xFD\xD7\xFB|Take 001|BaseLayer"
+    7400070: "Archmodels70_001_15|\xD7\xFE\xD7\xFC|Take 001|BaseLayer"
+    7400072: Archmodels70_001_14|Archmodels70_001_01|Take 001|BaseLayer
+    7400074: Archmodels70_001_14|Archmodels70_001_02|Take 001|BaseLayer
+    7400076: Archmodels70_001_14|Archmodels70_001_03|Take 001|BaseLayer
+    7400078: Archmodels70_001_14|Archmodels70_001_04|Take 001|BaseLayer
+    7400080: Archmodels70_001_14|Archmodels70_001_05|Take 001|BaseLayer
+    7400082: Archmodels70_001_14|Archmodels70_001_06|Take 001|BaseLayer
+    7400084: Archmodels70_001_14|Archmodels70_001_07|Take 001|BaseLayer
+    7400086: Archmodels70_001_14|Archmodels70_001_08|Take 001|BaseLayer
+    7400088: Archmodels70_001_14|Archmodels70_001_09|Take 001|BaseLayer
+    7400090: Archmodels70_001_14|Archmodels70_001_10|Take 001|BaseLayer
+    7400092: Archmodels70_001_14|Archmodels70_001_11|Take 001|BaseLayer
+    7400094: Archmodels70_001_14|Archmodels70_001_12|Take 001|BaseLayer
+    7400096: Archmodels70_001_14|Archmodels70_001_13|Take 001|BaseLayer
+    7400098: Archmodels70_001_14|Archmodels70_001_14|Take 001|BaseLayer
+    7400100: Archmodels70_001_14|Archmodels70_001_15|Take 001|BaseLayer
+    7400102: Archmodels70_001_14|Archmodels70_001_16|Take 001|BaseLayer
+    7400104: "Archmodels70_001_14|\xA1\xA1\xD7\xFD\xD7\xFB|Take 001|BaseLayer"
+    7400106: "Archmodels70_001_14|\xD7\xFE\xD7\xFC|Take 001|BaseLayer"
+    7400108: Archmodels70_001_13|Archmodels70_001_01|Take 001|BaseLayer
+    7400110: Archmodels70_001_13|Archmodels70_001_02|Take 001|BaseLayer
+    7400112: Archmodels70_001_13|Archmodels70_001_03|Take 001|BaseLayer
+    7400114: Archmodels70_001_13|Archmodels70_001_04|Take 001|BaseLayer
+    7400116: Archmodels70_001_13|Archmodels70_001_05|Take 001|BaseLayer
+    7400118: Archmodels70_001_13|Archmodels70_001_06|Take 001|BaseLayer
+    7400120: Archmodels70_001_13|Archmodels70_001_07|Take 001|BaseLayer
+    7400122: Archmodels70_001_13|Archmodels70_001_08|Take 001|BaseLayer
+    7400124: Archmodels70_001_13|Archmodels70_001_09|Take 001|BaseLayer
+    7400126: Archmodels70_001_13|Archmodels70_001_10|Take 001|BaseLayer
+    7400128: Archmodels70_001_13|Archmodels70_001_11|Take 001|BaseLayer
+    7400130: Archmodels70_001_13|Archmodels70_001_12|Take 001|BaseLayer
+    7400132: Archmodels70_001_13|Archmodels70_001_13|Take 001|BaseLayer
+    7400134: Archmodels70_001_13|Archmodels70_001_14|Take 001|BaseLayer
+    7400136: Archmodels70_001_13|Archmodels70_001_15|Take 001|BaseLayer
+    7400138: Archmodels70_001_13|Archmodels70_001_16|Take 001|BaseLayer
+    7400140: "Archmodels70_001_13|\xA1\xA1\xD7\xFD\xD7\xFB|Take 001|BaseLayer"
+    7400142: "Archmodels70_001_13|\xD7\xFE\xD7\xFC|Take 001|BaseLayer"
+    7400144: Archmodels70_001_12|Archmodels70_001_01|Take 001|BaseLayer
+    7400146: Archmodels70_001_12|Archmodels70_001_02|Take 001|BaseLayer
+    7400148: Archmodels70_001_12|Archmodels70_001_03|Take 001|BaseLayer
+    7400150: Archmodels70_001_12|Archmodels70_001_04|Take 001|BaseLayer
+    7400152: Archmodels70_001_12|Archmodels70_001_05|Take 001|BaseLayer
+    7400154: Archmodels70_001_12|Archmodels70_001_06|Take 001|BaseLayer
+    7400156: Archmodels70_001_12|Archmodels70_001_07|Take 001|BaseLayer
+    7400158: Archmodels70_001_12|Archmodels70_001_08|Take 001|BaseLayer
+    7400160: Archmodels70_001_12|Archmodels70_001_09|Take 001|BaseLayer
+    7400162: Archmodels70_001_12|Archmodels70_001_10|Take 001|BaseLayer
+    7400164: Archmodels70_001_12|Archmodels70_001_11|Take 001|BaseLayer
+    7400166: Archmodels70_001_12|Archmodels70_001_12|Take 001|BaseLayer
+    7400168: Archmodels70_001_12|Archmodels70_001_13|Take 001|BaseLayer
+    7400170: Archmodels70_001_12|Archmodels70_001_14|Take 001|BaseLayer
+    7400172: Archmodels70_001_12|Archmodels70_001_15|Take 001|BaseLayer
+    7400174: Archmodels70_001_12|Archmodels70_001_16|Take 001|BaseLayer
+    7400176: "Archmodels70_001_12|\xA1\xA1\xD7\xFD\xD7\xFB|Take 001|BaseLayer"
+    7400178: "Archmodels70_001_12|\xD7\xFE\xD7\xFC|Take 001|BaseLayer"
+    7400180: Archmodels70_001_11|Archmodels70_001_01|Take 001|BaseLayer
+    7400182: Archmodels70_001_11|Archmodels70_001_02|Take 001|BaseLayer
+    7400184: Archmodels70_001_11|Archmodels70_001_03|Take 001|BaseLayer
+    7400186: Archmodels70_001_11|Archmodels70_001_04|Take 001|BaseLayer
+    7400188: Archmodels70_001_11|Archmodels70_001_05|Take 001|BaseLayer
+    7400190: Archmodels70_001_11|Archmodels70_001_06|Take 001|BaseLayer
+    7400192: Archmodels70_001_11|Archmodels70_001_07|Take 001|BaseLayer
+    7400194: Archmodels70_001_11|Archmodels70_001_08|Take 001|BaseLayer
+    7400196: Archmodels70_001_11|Archmodels70_001_09|Take 001|BaseLayer
+    7400198: Archmodels70_001_11|Archmodels70_001_10|Take 001|BaseLayer
+    7400200: Archmodels70_001_11|Archmodels70_001_11|Take 001|BaseLayer
+    7400202: Archmodels70_001_11|Archmodels70_001_12|Take 001|BaseLayer
+    7400204: Archmodels70_001_11|Archmodels70_001_13|Take 001|BaseLayer
+    7400206: Archmodels70_001_11|Archmodels70_001_14|Take 001|BaseLayer
+    7400208: Archmodels70_001_11|Archmodels70_001_15|Take 001|BaseLayer
+    7400210: Archmodels70_001_11|Archmodels70_001_16|Take 001|BaseLayer
+    7400212: "Archmodels70_001_11|\xA1\xA1\xD7\xFD\xD7\xFB|Take 001|BaseLayer"
+    7400214: "Archmodels70_001_11|\xD7\xFE\xD7\xFC|Take 001|BaseLayer"
+    7400216: Archmodels70_001_10|Archmodels70_001_01|Take 001|BaseLayer
+    7400218: Archmodels70_001_10|Archmodels70_001_02|Take 001|BaseLayer
+    7400220: Archmodels70_001_10|Archmodels70_001_03|Take 001|BaseLayer
+    7400222: Archmodels70_001_10|Archmodels70_001_04|Take 001|BaseLayer
+    7400224: Archmodels70_001_10|Archmodels70_001_05|Take 001|BaseLayer
+    7400226: Archmodels70_001_10|Archmodels70_001_06|Take 001|BaseLayer
+    7400228: Archmodels70_001_10|Archmodels70_001_07|Take 001|BaseLayer
+    7400230: Archmodels70_001_10|Archmodels70_001_08|Take 001|BaseLayer
+    7400232: Archmodels70_001_10|Archmodels70_001_09|Take 001|BaseLayer
+    7400234: Archmodels70_001_10|Archmodels70_001_10|Take 001|BaseLayer
+    7400236: Archmodels70_001_10|Archmodels70_001_11|Take 001|BaseLayer
+    7400238: Archmodels70_001_10|Archmodels70_001_12|Take 001|BaseLayer
+    7400240: Archmodels70_001_10|Archmodels70_001_13|Take 001|BaseLayer
+    7400242: Archmodels70_001_10|Archmodels70_001_14|Take 001|BaseLayer
+    7400244: Archmodels70_001_10|Archmodels70_001_15|Take 001|BaseLayer
+    7400246: Archmodels70_001_10|Archmodels70_001_16|Take 001|BaseLayer
+    7400248: "Archmodels70_001_10|\xA1\xA1\xD7\xFD\xD7\xFB|Take 001|BaseLayer"
+    7400250: "Archmodels70_001_10|\xD7\xFE\xD7\xFC|Take 001|BaseLayer"
+    7400252: Archmodels70_001_09|Archmodels70_001_01|Take 001|BaseLayer
+    7400254: Archmodels70_001_09|Archmodels70_001_02|Take 001|BaseLayer
+    7400256: Archmodels70_001_09|Archmodels70_001_03|Take 001|BaseLayer
+    7400258: Archmodels70_001_09|Archmodels70_001_04|Take 001|BaseLayer
+    7400260: Archmodels70_001_09|Archmodels70_001_05|Take 001|BaseLayer
+    7400262: Archmodels70_001_09|Archmodels70_001_06|Take 001|BaseLayer
+    7400264: Archmodels70_001_09|Archmodels70_001_07|Take 001|BaseLayer
+    7400266: Archmodels70_001_09|Archmodels70_001_08|Take 001|BaseLayer
+    7400268: Archmodels70_001_09|Archmodels70_001_09|Take 001|BaseLayer
+    7400270: Archmodels70_001_09|Archmodels70_001_10|Take 001|BaseLayer
+    7400272: Archmodels70_001_09|Archmodels70_001_11|Take 001|BaseLayer
+    7400274: Archmodels70_001_09|Archmodels70_001_12|Take 001|BaseLayer
+    7400276: Archmodels70_001_09|Archmodels70_001_13|Take 001|BaseLayer
+    7400278: Archmodels70_001_09|Archmodels70_001_14|Take 001|BaseLayer
+    7400280: Archmodels70_001_09|Archmodels70_001_15|Take 001|BaseLayer
+    7400282: Archmodels70_001_09|Archmodels70_001_16|Take 001|BaseLayer
+    7400284: "Archmodels70_001_09|\xA1\xA1\xD7\xFD\xD7\xFB|Take 001|BaseLayer"
+    7400286: "Archmodels70_001_09|\xD7\xFE\xD7\xFC|Take 001|BaseLayer"
+    7400288: Archmodels70_001_08|Archmodels70_001_01|Take 001|BaseLayer
+    7400290: Archmodels70_001_08|Archmodels70_001_02|Take 001|BaseLayer
+    7400292: Archmodels70_001_08|Archmodels70_001_03|Take 001|BaseLayer
+    7400294: Archmodels70_001_08|Archmodels70_001_04|Take 001|BaseLayer
+    7400296: Archmodels70_001_08|Archmodels70_001_05|Take 001|BaseLayer
+    7400298: Archmodels70_001_08|Archmodels70_001_06|Take 001|BaseLayer
+    7400300: Archmodels70_001_08|Archmodels70_001_07|Take 001|BaseLayer
+    7400302: Archmodels70_001_08|Archmodels70_001_08|Take 001|BaseLayer
+    7400304: Archmodels70_001_08|Archmodels70_001_09|Take 001|BaseLayer
+    7400306: Archmodels70_001_08|Archmodels70_001_10|Take 001|BaseLayer
+    7400308: Archmodels70_001_08|Archmodels70_001_11|Take 001|BaseLayer
+    7400310: Archmodels70_001_08|Archmodels70_001_12|Take 001|BaseLayer
+    7400312: Archmodels70_001_08|Archmodels70_001_13|Take 001|BaseLayer
+    7400314: Archmodels70_001_08|Archmodels70_001_14|Take 001|BaseLayer
+    7400316: Archmodels70_001_08|Archmodels70_001_15|Take 001|BaseLayer
+    7400318: Archmodels70_001_08|Archmodels70_001_16|Take 001|BaseLayer
+    7400320: "Archmodels70_001_08|\xA1\xA1\xD7\xFD\xD7\xFB|Take 001|BaseLayer"
+    7400322: "Archmodels70_001_08|\xD7\xFE\xD7\xFC|Take 001|BaseLayer"
+    7400324: Archmodels70_001_07|Archmodels70_001_01|Take 001|BaseLayer
+    7400326: Archmodels70_001_07|Archmodels70_001_02|Take 001|BaseLayer
+    7400328: Archmodels70_001_07|Archmodels70_001_03|Take 001|BaseLayer
+    7400330: Archmodels70_001_07|Archmodels70_001_04|Take 001|BaseLayer
+    7400332: Archmodels70_001_07|Archmodels70_001_05|Take 001|BaseLayer
+    7400334: Archmodels70_001_07|Archmodels70_001_06|Take 001|BaseLayer
+    7400336: Archmodels70_001_07|Archmodels70_001_07|Take 001|BaseLayer
+    7400338: Archmodels70_001_07|Archmodels70_001_08|Take 001|BaseLayer
+    7400340: Archmodels70_001_07|Archmodels70_001_09|Take 001|BaseLayer
+    7400342: Archmodels70_001_07|Archmodels70_001_10|Take 001|BaseLayer
+    7400344: Archmodels70_001_07|Archmodels70_001_11|Take 001|BaseLayer
+    7400346: Archmodels70_001_07|Archmodels70_001_12|Take 001|BaseLayer
+    7400348: Archmodels70_001_07|Archmodels70_001_13|Take 001|BaseLayer
+    7400350: Archmodels70_001_07|Archmodels70_001_14|Take 001|BaseLayer
+    7400352: Archmodels70_001_07|Archmodels70_001_15|Take 001|BaseLayer
+    7400354: Archmodels70_001_07|Archmodels70_001_16|Take 001|BaseLayer
+    7400356: "Archmodels70_001_07|\xA1\xA1\xD7\xFD\xD7\xFB|Take 001|BaseLayer"
+    7400358: "Archmodels70_001_07|\xD7\xFE\xD7\xFC|Take 001|BaseLayer"
+    7400360: Archmodels70_001_05|Archmodels70_001_01|Take 001|BaseLayer
+    7400362: Archmodels70_001_05|Archmodels70_001_02|Take 001|BaseLayer
+    7400364: Archmodels70_001_05|Archmodels70_001_03|Take 001|BaseLayer
+    7400366: Archmodels70_001_05|Archmodels70_001_04|Take 001|BaseLayer
+    7400368: Archmodels70_001_05|Archmodels70_001_05|Take 001|BaseLayer
+    7400370: Archmodels70_001_05|Archmodels70_001_06|Take 001|BaseLayer
+    7400372: Archmodels70_001_05|Archmodels70_001_07|Take 001|BaseLayer
+    7400374: Archmodels70_001_05|Archmodels70_001_08|Take 001|BaseLayer
+    7400376: Archmodels70_001_05|Archmodels70_001_09|Take 001|BaseLayer
+    7400378: Archmodels70_001_05|Archmodels70_001_10|Take 001|BaseLayer
+    7400380: Archmodels70_001_05|Archmodels70_001_11|Take 001|BaseLayer
+    7400382: Archmodels70_001_05|Archmodels70_001_12|Take 001|BaseLayer
+    7400384: Archmodels70_001_05|Archmodels70_001_13|Take 001|BaseLayer
+    7400386: Archmodels70_001_05|Archmodels70_001_14|Take 001|BaseLayer
+    7400388: Archmodels70_001_05|Archmodels70_001_15|Take 001|BaseLayer
+    7400390: Archmodels70_001_05|Archmodels70_001_16|Take 001|BaseLayer
+    7400392: "Archmodels70_001_05|\xA1\xA1\xD7\xFD\xD7\xFB|Take 001|BaseLayer"
+    7400394: "Archmodels70_001_05|\xD7\xFE\xD7\xFC|Take 001|BaseLayer"
+    7400396: Archmodels70_001_04|Archmodels70_001_01|Take 001|BaseLayer
+    7400398: Archmodels70_001_04|Archmodels70_001_02|Take 001|BaseLayer
+    7400400: Archmodels70_001_04|Archmodels70_001_03|Take 001|BaseLayer
+    7400402: Archmodels70_001_04|Archmodels70_001_04|Take 001|BaseLayer
+    7400404: Archmodels70_001_04|Archmodels70_001_05|Take 001|BaseLayer
+    7400406: Archmodels70_001_04|Archmodels70_001_06|Take 001|BaseLayer
+    7400408: Archmodels70_001_04|Archmodels70_001_07|Take 001|BaseLayer
+    7400410: Archmodels70_001_04|Archmodels70_001_08|Take 001|BaseLayer
+    7400412: Archmodels70_001_04|Archmodels70_001_09|Take 001|BaseLayer
+    7400414: Archmodels70_001_04|Archmodels70_001_10|Take 001|BaseLayer
+    7400416: Archmodels70_001_04|Archmodels70_001_11|Take 001|BaseLayer
+    7400418: Archmodels70_001_04|Archmodels70_001_12|Take 001|BaseLayer
+    7400420: Archmodels70_001_04|Archmodels70_001_13|Take 001|BaseLayer
+    7400422: Archmodels70_001_04|Archmodels70_001_14|Take 001|BaseLayer
+    7400424: Archmodels70_001_04|Archmodels70_001_15|Take 001|BaseLayer
+    7400426: Archmodels70_001_04|Archmodels70_001_16|Take 001|BaseLayer
+    7400428: "Archmodels70_001_04|\xA1\xA1\xD7\xFD\xD7\xFB|Take 001|BaseLayer"
+    7400430: "Archmodels70_001_04|\xD7\xFE\xD7\xFC|Take 001|BaseLayer"
+    7400432: Archmodels70_001_03|Archmodels70_001_01|Take 001|BaseLayer
+    7400434: Archmodels70_001_03|Archmodels70_001_02|Take 001|BaseLayer
+    7400436: Archmodels70_001_03|Archmodels70_001_03|Take 001|BaseLayer
+    7400438: Archmodels70_001_03|Archmodels70_001_04|Take 001|BaseLayer
+    7400440: Archmodels70_001_03|Archmodels70_001_05|Take 001|BaseLayer
+    7400442: Archmodels70_001_03|Archmodels70_001_06|Take 001|BaseLayer
+    7400444: Archmodels70_001_03|Archmodels70_001_07|Take 001|BaseLayer
+    7400446: Archmodels70_001_03|Archmodels70_001_08|Take 001|BaseLayer
+    7400448: Archmodels70_001_03|Archmodels70_001_09|Take 001|BaseLayer
+    7400450: Archmodels70_001_03|Archmodels70_001_10|Take 001|BaseLayer
+    7400452: Archmodels70_001_03|Archmodels70_001_11|Take 001|BaseLayer
+    7400454: Archmodels70_001_03|Archmodels70_001_12|Take 001|BaseLayer
+    7400456: Archmodels70_001_03|Archmodels70_001_13|Take 001|BaseLayer
+    7400458: Archmodels70_001_03|Archmodels70_001_14|Take 001|BaseLayer
+    7400460: Archmodels70_001_03|Archmodels70_001_15|Take 001|BaseLayer
+    7400462: Archmodels70_001_03|Archmodels70_001_16|Take 001|BaseLayer
+    7400464: "Archmodels70_001_03|\xA1\xA1\xD7\xFD\xD7\xFB|Take 001|BaseLayer"
+    7400466: "Archmodels70_001_03|\xD7\xFE\xD7\xFC|Take 001|BaseLayer"
+    7400468: Archmodels70_001_02|Archmodels70_001_01|Take 001|BaseLayer
+    7400470: Archmodels70_001_02|Archmodels70_001_02|Take 001|BaseLayer
+    7400472: Archmodels70_001_02|Archmodels70_001_03|Take 001|BaseLayer
+    7400474: Archmodels70_001_02|Archmodels70_001_04|Take 001|BaseLayer
+    7400476: Archmodels70_001_02|Archmodels70_001_05|Take 001|BaseLayer
+    7400478: Archmodels70_001_02|Archmodels70_001_06|Take 001|BaseLayer
+    7400480: Archmodels70_001_02|Archmodels70_001_07|Take 001|BaseLayer
+    7400482: Archmodels70_001_02|Archmodels70_001_08|Take 001|BaseLayer
+    7400484: Archmodels70_001_02|Archmodels70_001_09|Take 001|BaseLayer
+    7400486: Archmodels70_001_02|Archmodels70_001_10|Take 001|BaseLayer
+    7400488: Archmodels70_001_02|Archmodels70_001_11|Take 001|BaseLayer
+    7400490: Archmodels70_001_02|Archmodels70_001_12|Take 001|BaseLayer
+    7400492: Archmodels70_001_02|Archmodels70_001_13|Take 001|BaseLayer
+    7400494: Archmodels70_001_02|Archmodels70_001_14|Take 001|BaseLayer
+    7400496: Archmodels70_001_02|Archmodels70_001_15|Take 001|BaseLayer
+    7400498: Archmodels70_001_02|Archmodels70_001_16|Take 001|BaseLayer
+    7400500: "Archmodels70_001_02|\xA1\xA1\xD7\xFD\xD7\xFB|Take 001|BaseLayer"
+    7400502: "Archmodels70_001_02|\xD7\xFE\xD7\xFC|Take 001|BaseLayer"
+    7400504: Archmodels70_001_01|Archmodels70_001_01|Take 001|BaseLayer
+    7400506: Archmodels70_001_01|Archmodels70_001_02|Take 001|BaseLayer
+    7400508: Archmodels70_001_01|Archmodels70_001_03|Take 001|BaseLayer
+    7400510: Archmodels70_001_01|Archmodels70_001_04|Take 001|BaseLayer
+    7400512: Archmodels70_001_01|Archmodels70_001_05|Take 001|BaseLayer
+    7400514: Archmodels70_001_01|Archmodels70_001_06|Take 001|BaseLayer
+    7400516: Archmodels70_001_01|Archmodels70_001_07|Take 001|BaseLayer
+    7400518: Archmodels70_001_01|Archmodels70_001_08|Take 001|BaseLayer
+    7400520: Archmodels70_001_01|Archmodels70_001_09|Take 001|BaseLayer
+    7400522: Archmodels70_001_01|Archmodels70_001_10|Take 001|BaseLayer
+    7400524: Archmodels70_001_01|Archmodels70_001_11|Take 001|BaseLayer
+    7400526: Archmodels70_001_01|Archmodels70_001_12|Take 001|BaseLayer
+    7400528: Archmodels70_001_01|Archmodels70_001_13|Take 001|BaseLayer
+    7400530: Archmodels70_001_01|Archmodels70_001_14|Take 001|BaseLayer
+    7400532: Archmodels70_001_01|Archmodels70_001_15|Take 001|BaseLayer
+    7400534: Archmodels70_001_01|Archmodels70_001_16|Take 001|BaseLayer
+    7400536: "Archmodels70_001_01|\xA1\xA1\xD7\xFD\xD7\xFB|Take 001|BaseLayer"
+    7400538: "Archmodels70_001_01|\xD7\xFE\xD7\xFC|Take 001|BaseLayer"
+    7400540: "\xA1\xA1\xD7\xFD\xD7\xFB|Archmodels70_001_01|Take 001|BaseLayer"
+    7400542: "\xA1\xA1\xD7\xFD\xD7\xFB|Archmodels70_001_02|Take 001|BaseLayer"
+    7400544: "\xA1\xA1\xD7\xFD\xD7\xFB|Archmodels70_001_03|Take 001|BaseLayer"
+    7400546: "\xA1\xA1\xD7\xFD\xD7\xFB|Archmodels70_001_04|Take 001|BaseLayer"
+    7400548: "\xA1\xA1\xD7\xFD\xD7\xFB|Archmodels70_001_05|Take 001|BaseLayer"
+    7400550: "\xA1\xA1\xD7\xFD\xD7\xFB|Archmodels70_001_06|Take 001|BaseLayer"
+    7400552: "\xA1\xA1\xD7\xFD\xD7\xFB|Archmodels70_001_07|Take 001|BaseLayer"
+    7400554: "\xA1\xA1\xD7\xFD\xD7\xFB|Archmodels70_001_08|Take 001|BaseLayer"
+    7400556: "\xA1\xA1\xD7\xFD\xD7\xFB|Archmodels70_001_09|Take 001|BaseLayer"
+    7400558: "\xA1\xA1\xD7\xFD\xD7\xFB|Archmodels70_001_10|Take 001|BaseLayer"
+    7400560: "\xA1\xA1\xD7\xFD\xD7\xFB|Archmodels70_001_11|Take 001|BaseLayer"
+    7400562: "\xA1\xA1\xD7\xFD\xD7\xFB|Archmodels70_001_12|Take 001|BaseLayer"
+    7400564: "\xA1\xA1\xD7\xFD\xD7\xFB|Archmodels70_001_13|Take 001|BaseLayer"
+    7400566: "\xA1\xA1\xD7\xFD\xD7\xFB|Archmodels70_001_14|Take 001|BaseLayer"
+    7400568: "\xA1\xA1\xD7\xFD\xD7\xFB|Archmodels70_001_15|Take 001|BaseLayer"
+    7400570: "\xA1\xA1\xD7\xFD\xD7\xFB|Archmodels70_001_16|Take 001|BaseLayer"
+    7400572: "\xA1\xA1\xD7\xFD\xD7\xFB|\xA1\xA1\xD7\xFD\xD7\xFB|Take 001|BaseLayer"
+    7400574: "\xA1\xA1\xD7\xFD\xD7\xFB|\xD7\xFE\xD7\xFC|Take 001|BaseLayer"
+    7400576: "\xD7\xFE\xD7\xFC|Archmodels70_001_01|Take 001|BaseLayer"
+    7400578: "\xD7\xFE\xD7\xFC|Archmodels70_001_02|Take 001|BaseLayer"
+    7400580: "\xD7\xFE\xD7\xFC|Archmodels70_001_03|Take 001|BaseLayer"
+    7400582: "\xD7\xFE\xD7\xFC|Archmodels70_001_04|Take 001|BaseLayer"
+    7400584: "\xD7\xFE\xD7\xFC|Archmodels70_001_05|Take 001|BaseLayer"
+    7400586: "\xD7\xFE\xD7\xFC|Archmodels70_001_06|Take 001|BaseLayer"
+    7400588: "\xD7\xFE\xD7\xFC|Archmodels70_001_07|Take 001|BaseLayer"
+    7400590: "\xD7\xFE\xD7\xFC|Archmodels70_001_08|Take 001|BaseLayer"
+    7400592: "\xD7\xFE\xD7\xFC|Archmodels70_001_09|Take 001|BaseLayer"
+    7400594: "\xD7\xFE\xD7\xFC|Archmodels70_001_10|Take 001|BaseLayer"
+    7400596: "\xD7\xFE\xD7\xFC|Archmodels70_001_11|Take 001|BaseLayer"
+    7400598: "\xD7\xFE\xD7\xFC|Archmodels70_001_12|Take 001|BaseLayer"
+    7400600: "\xD7\xFE\xD7\xFC|Archmodels70_001_13|Take 001|BaseLayer"
+    7400602: "\xD7\xFE\xD7\xFC|Archmodels70_001_14|Take 001|BaseLayer"
+    7400604: "\xD7\xFE\xD7\xFC|Archmodels70_001_15|Take 001|BaseLayer"
+    7400606: "\xD7\xFE\xD7\xFC|Archmodels70_001_16|Take 001|BaseLayer"
+    7400608: "\xD7\xFE\xD7\xFC|\xA1\xA1\xD7\xFD\xD7\xFB|Take 001|BaseLayer"
+    7400610: "\xD7\xFE\xD7\xFC|\xD7\xFE\xD7\xFC|Take 001|BaseLayer"
+    9500000: //RootNode
+    10800000: Lamp
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 47f568ea4625fba49a79bc3f6b9edb2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archmodels70_001_01
+    second: {fileID: 2100000, guid: e3b41c6408e0ae640b8aa0ec66ce25e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archmodels70_001_02
+    second: {fileID: 2100000, guid: de69f0a8900fc3a4bafbf7c65c767162, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archmodels70_001_03
+    second: {fileID: 2100000, guid: 915e0c6fd4cc47043bfd0868b1c252d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archmodels70_001_04
+    second: {fileID: 2100000, guid: eb890401eb1996a4d85af0ae315816d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archmodels70_001_06
+    second: {fileID: 2100000, guid: d3c24d7be7fcbf749afda5f810667f14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archmodels70_001_07
+    second: {fileID: 2100000, guid: 5e6fc924ad6b4864a9b4894e61003716, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archmodels70_001_08
+    second: {fileID: 2100000, guid: 5394d2fe4b49c854f82c4273c7166d99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archmodels70_001_09
+    second: {fileID: 2100000, guid: 71025eeecc7304c43ae2ae5e02639711, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archmodels70_001_10
+    second: {fileID: 2100000, guid: 2e07f328bd6be9e4989f1d39892affbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archmodels70_001_11
+    second: {fileID: 2100000, guid: 768056a6fcde82f448bd7f354bcfadaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archmodels70_001_12
+    second: {fileID: 2100000, guid: 2462c218d6db46e40a8adc1a1bad4d02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archmodels70_001_13
+    second: {fileID: 2100000, guid: b6f2d1e4ad84a3140a09c4b314887e6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archmodels70_001_14
+    second: {fileID: 2100000, guid: c6ef94db72258ef439a9b6d7fe0816b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Archmodels70_001_15
+    second: {fileID: 2100000, guid: 41d1d68b791eb934e955b8b2045f0ce0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: ecf52c46b07a1eb4889a81e550621b77, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.4
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.003
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 1279f7ace82d69343827afc1969ee105
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ' asa'
+    100002: 5555
+    100004: Box001
+    100006: Box002
+    100008: Box003
+    100010: Box004
+    100012: Box005
+    100014: Box006
+    100016: Cylinder001
+    100018: Cylinder002
+    100020: Cylinder003
+    100022: Label_1
+    100024: Label_2
+    100026: Label_3
+    100028: Main_Pro_glide_body
+    100030: Metal_tube
+    100032: Object001
+    100034: Plane00112121
+    100036: Plane002334
+    100038: Plane003444
+    100040: Plane112122
+    100042: Plane112123
+    100044: Plastic_rotate_part
+    100046: //RootNode
+    100048: Rotator_group
+    100050: Slider_group
+    100052: Sphere001
+    100054: Spring
+    100056: Syring_black_part_1
+    100058: Syring_black_part_2
+    100060: Syring_black_part_3
+    100062: Syring_black_part_4
+    100064: Syringe_white_part_1
+    100066: Torus001
+    100068: Torus002
+    100070: Torus003
+    100072: Torus004
+    100074: Torus005
+    100076: Torus006
+    100078: Torus007
+    100080: Torus008
+    100082: Torus009
+    100084: Torus010
+    100086: Torus011
+    100088: Torus012
+    100090: Torus013
+    100092: Torus014
+    100094: Torus015
+    100096: Torus016
+    100098: Torus017
+    100100: Torus018
+    100102: Torus019
+    100104: Torus020
+    100106: Torus021
+    100108: Torus022
+    100110: Torus023
+    100112: Transparent_tube
+    100114: upper_black_
+    400000: ' asa'
+    400002: 5555
+    400004: Box001
+    400006: Box002
+    400008: Box003
+    400010: Box004
+    400012: Box005
+    400014: Box006
+    400016: Cylinder001
+    400018: Cylinder002
+    400020: Cylinder003
+    400022: Label_1
+    400024: Label_2
+    400026: Label_3
+    400028: Main_Pro_glide_body
+    400030: Metal_tube
+    400032: Object001
+    400034: Plane00112121
+    400036: Plane002334
+    400038: Plane003444
+    400040: Plane112122
+    400042: Plane112123
+    400044: Plastic_rotate_part
+    400046: //RootNode
+    400048: Rotator_group
+    400050: Slider_group
+    400052: Sphere001
+    400054: Spring
+    400056: Syring_black_part_1
+    400058: Syring_black_part_2
+    400060: Syring_black_part_3
+    400062: Syring_black_part_4
+    400064: Syringe_white_part_1
+    400066: Torus001
+    400068: Torus002
+    400070: Torus003
+    400072: Torus004
+    400074: Torus005
+    400076: Torus006
+    400078: Torus007
+    400080: Torus008
+    400082: Torus009
+    400084: Torus010
+    400086: Torus011
+    400088: Torus012
+    400090: Torus013
+    400092: Torus014
+    400094: Torus015
+    400096: Torus016
+    400098: Torus017
+    400100: Torus018
+    400102: Torus019
+    400104: Torus020
+    400106: Torus021
+    400108: Torus022
+    400110: Torus023
+    400112: Transparent_tube
+    400114: upper_black_
+    2100000: Chrome_mtl
+    2100002: transparent_tube_mtl
+    2100004: Purple_plastic_mtl
+    2100006: Black_Plastic_mtl
+    2100008: 01 - Default
+    2100010: 02 - Default
+    2100012: Label_mtl_1
+    2100014: Wall Paint
+    2100016: Ceramic
+    2100018: White_plastic_mtl
+    2100020: 19 - Default
+    2100022: 13 - Brushed Metal
+    2100024: 21 - Default
+    2100026: Solid Glass
+    2100028: 03 - Default
+    2100030: 14 - Polished Aluminum
+    2300000: ' asa'
+    2300002: 5555
+    2300004: Box001
+    2300006: Box002
+    2300008: Box003
+    2300010: Box004
+    2300012: Box005
+    2300014: Box006
+    2300016: Cylinder001
+    2300018: Cylinder002
+    2300020: Cylinder003
+    2300022: Label_1
+    2300024: Label_2
+    2300026: Label_3
+    2300028: Main_Pro_glide_body
+    2300030: Metal_tube
+    2300032: Object001
+    2300034: Plane00112121
+    2300036: Plane002334
+    2300038: Plane003444
+    2300040: Plane112122
+    2300042: Plane112123
+    2300044: Plastic_rotate_part
+    2300046: Sphere001
+    2300048: Syring_black_part_1
+    2300050: Syring_black_part_2
+    2300052: Syring_black_part_3
+    2300054: Syring_black_part_4
+    2300056: Syringe_white_part_1
+    2300058: Torus001
+    2300060: Torus002
+    2300062: Torus003
+    2300064: Torus004
+    2300066: Torus005
+    2300068: Torus006
+    2300070: Torus007
+    2300072: Torus008
+    2300074: Torus009
+    2300076: Torus010
+    2300078: Torus011
+    2300080: Torus012
+    2300082: Torus013
+    2300084: Torus014
+    2300086: Torus015
+    2300088: Torus016
+    2300090: Torus017
+    2300092: Torus018
+    2300094: Torus019
+    2300096: Torus020
+    2300098: Torus021
+    2300100: Torus022
+    2300102: Torus023
+    2300104: Transparent_tube
+    3300000: ' asa'
+    3300002: 5555
+    3300004: Box001
+    3300006: Box002
+    3300008: Box003
+    3300010: Box004
+    3300012: Box005
+    3300014: Box006
+    3300016: Cylinder001
+    3300018: Cylinder002
+    3300020: Cylinder003
+    3300022: Label_1
+    3300024: Label_2
+    3300026: Label_3
+    3300028: Main_Pro_glide_body
+    3300030: Metal_tube
+    3300032: Object001
+    3300034: Plane00112121
+    3300036: Plane002334
+    3300038: Plane003444
+    3300040: Plane112122
+    3300042: Plane112123
+    3300044: Plastic_rotate_part
+    3300046: Sphere001
+    3300048: Syring_black_part_1
+    3300050: Syring_black_part_2
+    3300052: Syring_black_part_3
+    3300054: Syring_black_part_4
+    3300056: Syringe_white_part_1
+    3300058: Torus001
+    3300060: Torus002
+    3300062: Torus003
+    3300064: Torus004
+    3300066: Torus005
+    3300068: Torus006
+    3300070: Torus007
+    3300072: Torus008
+    3300074: Torus009
+    3300076: Torus010
+    3300078: Torus011
+    3300080: Torus012
+    3300082: Torus013
+    3300084: Torus014
+    3300086: Torus015
+    3300088: Torus016
+    3300090: Torus017
+    3300092: Torus018
+    3300094: Torus019
+    3300096: Torus020
+    3300098: Torus021
+    3300100: Torus022
+    3300102: Torus023
+    3300104: Transparent_tube
+    4300000: Metal_tube
+    4300002: Transparent_tube
+    4300004: Main_Pro_glide_body
+    4300006: Label_3
+    4300008: Label_2
+    4300010: Label_1
+    4300012: Plastic_rotate_part
+    4300014: Plane002334
+    4300016: Plane00112121
+    4300018: Box001
+    4300020: Box002
+    4300022: Box003
+    4300024: Box004
+    4300026: Cylinder001
+    4300028: Box005
+    4300030: Sphere001
+    4300032: Syringe_white_part_1
+    4300034: Syring_black_part_1
+    4300036: Box006
+    4300038: Torus023
+    4300040: Torus022
+    4300042: Torus021
+    4300044: Torus020
+    4300046: Torus019
+    4300048: Torus018
+    4300050: Torus017
+    4300052: Torus016
+    4300054: Torus015
+    4300056: Torus014
+    4300058: Torus013
+    4300060: Torus012
+    4300062: Torus011
+    4300064: Torus010
+    4300066: Torus009
+    4300068: Torus008
+    4300070: Torus007
+    4300072: Torus006
+    4300074: Torus005
+    4300076: Torus004
+    4300078: Torus003
+    4300080: Torus002
+    4300082: Torus001
+    4300084: 5555
+    4300086: Syring_black_part_4
+    4300088: Syring_black_part_3
+    4300090: Syring_black_part_2
+    4300092: Plane003444
+    4300094: Cylinder002
+    4300096: Cylinder003
+    4300098: Plane112123
+    4300100: Plane112122
+    4300102: ' asa'
+    4300104: Object001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 19045063922288c419920da15fc3b8d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: ff0c74877b1ee3d4780cf684c9df8f13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: ff9cf9cf27428004087c6b74d94158cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13 - Brushed Metal
+    second: {fileID: 2100000, guid: 8fc44479ef3be544f8c32e09c7d804cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 14 - Polished Aluminum
+    second: {fileID: 2100000, guid: fc2ff7fdc4ebce54b85765c324accdf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 19 - Default
+    second: {fileID: 2100000, guid: ad7c287bd16500642a1de48c560f0771, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21 - Default
+    second: {fileID: 2100000, guid: 3b6317f40caf85d46b07c7f15d62add2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black_Plastic_mtl
+    second: {fileID: 2100000, guid: 2afb445a9e6e61a4eba535e4fd00db19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceramic
+    second: {fileID: 2100000, guid: 41f1b8899dfbf7b4d8a6e4edf127d4a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome_mtl
+    second: {fileID: 2100000, guid: efabbeebd82e5354d900a165458287db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Label_mtl_1
+    second: {fileID: 2100000, guid: f1ce88935519bbb4f99ab5e82b790623, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Purple_plastic_mtl
+    second: {fileID: 2100000, guid: dea9c326ad56d0c45a5684573acf548d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solid Glass
+    second: {fileID: 2100000, guid: dbe37dded6045ff44bae59320ac9c2dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall Paint
+    second: {fileID: 2100000, guid: 9554a6c7633325f45bf14d560eaa3b0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White_plastic_mtl
+    second: {fileID: 2100000, guid: bcab888a7a8d21f439875d67edff1364, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: transparent_tube_mtl
+    second: {fileID: 2100000, guid: 1bc4826a19ca70149bdd78f83b599321, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
